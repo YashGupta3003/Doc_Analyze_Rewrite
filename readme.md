@@ -5,7 +5,7 @@
 Below is an overview of the main files and their responsibilities:
 
 ```
-documentation-analyzer/
+Doc_Analyzer_MoEngage/
 │
 ├── main.py                # The main FastAPI app. Defines all API endpoints and connects the agents.
 ├── content_fetcher.py     # Handles scraping and extracting structured content from documentation URLs using Selenium and BeautifulSoup.
@@ -47,7 +47,7 @@ documentation-analyzer/
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/YashGupta3003/Doc_Analyzer_MoEngage.git
-cd documentation-analyzer
+cd Doc_Analyzer_MoEngage
 ```
 
 ### 2. Create and Activate a Virtual Environment
