@@ -46,7 +46,7 @@ Doc_Analyzer_MoEngage/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/YashGupta3003/Doc_Analyzer_MoEngage.git
+git clone https://github.com/YashGupta3003/Doc_Analyze_Rewrite.git
 cd Doc_Analyzer_MoEngage
 ```
 
