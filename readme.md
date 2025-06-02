@@ -32,7 +32,7 @@ Doc_Analyzer_MoEngage/
 - `analyzer.py`: Analyzes the content for structure, style, and quality using Gemini.
 - `style_rewriter.py`: Rewrites documentation using Gemini, based on style suggestions.
 - `requirements.txt`: All required Python packages.
-- `.env`: Store your API keys here (never commit this!).
+- `.env`: Store your API keys here(Your Gemini API key).
 - `readme.md`: How to set up and use the project.
 - `thoughtprocess.md`: My full thought process, design choices, and troubleshooting.
 - `EXAMPLES/examples_url.txt`: Example URLs for quick testing.
