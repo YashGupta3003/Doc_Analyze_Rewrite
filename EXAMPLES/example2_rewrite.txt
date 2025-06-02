@@ -1,0 +1,7 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/35162846579860-Overview#h_01JN358WAQB9MTJF2RFGZ40FXR",
+  "title": "Overview – User Guide",
+  "revised_content": "MoEngage secures your data by restricting access with these features:\n\n• Login\n• 2-Step verification (2FA)\n• Firewall\n• MoEngage access\n\n\ninfo | InformationAdmins only can configure the features above.\nInformation\n\nAdmins only can configure the features above.\n\n\nLoginlink\n\nDefine authentication methods for your team's logins. MoEngage supports:\n\n• Password or Google sign-in\n• Google Sign-in only\n• Single Sign-On (SSO) only\n\nFor more information, refer to Set Up the Login Method.\n\n\n2-Step verificationlink\n\nConfigure 2-step verification (2FA) to enhance your workspace security.  Enabling 2FA prompts your team members for additional authentication during login. For more information, refer to Two-Factor Authentication (2FA) or 2-Step Verification.\n\n\nFirewalllink\n\nEnable a firewall to control dashboard access by allowing or blocking specific IP addresses or ranges. For more information, refer to Firewall.\n\n\nMoEngage accesslink\n\nEnable MoEngage Support access to your workspaces for troubleshooting. For more information, refer to Access for the MoEngage Team.",
+  "status": "success",
+  "message": "Style-guideline-based revision completed"
+}

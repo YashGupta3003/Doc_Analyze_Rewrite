@@ -1,0 +1,2 @@
+url1="https://help.moengage.com/hc/en-us/articles/360059585571-Introduction#integration-essentials-for-web-personalization--0-1"
+url2="https://help.moengage.com/hc/en-us/articles/35162846579860-Overview#h_01JN358WAQB9MTJF2RFGZ40FXR"

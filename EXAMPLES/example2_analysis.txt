@@ -1,0 +1,35 @@
+{
+  "url": "https://help.moengage.com/hc/en-us/articles/35162846579860-Overview#h_01JN358WAQB9MTJF2RFGZ40FXR",
+  "title": "Overview – User Guide",
+  "word_count": 186,
+  "status": "success",
+  "message": "Analysis completed successfully",
+  "analysis": {
+    "readability": {
+      "assessment": "The structure is somewhat logical, following a natural progression through the security features. However, the repetitive \"You must be an Admin\" paragraph detracts from the flow and could be integrated elsewhere.  The eight paragraphs are a bit excessive for such a short document; some could be combined.  The lists are effectively used, but the headings aren't strongly descriptive enough to aid navigation.  The links within the text (\"Loginlink\", \"2-Step verificationlink\", etc.) are not ideal for readability and should be formatted differently.",
+      "suggestions": [
+        "Consolidate paragraphs. Combine the repetitive \"Admin\" requirement with the initial paragraph describing the security features.  Combine paragraphs about similar features where appropriate.",
+        "Improve heading clarity. Instead of generic titles like \"Login,\" use more descriptive headings such as \"Configuring Login Methods\" or \"Securing Access with Two-Factor Authentication.\" This will improve navigation and make the document more scannable.  The headings should also stand out more clearly from the body text through formatting.  3.  Improve Link formatting.  The links should be formatted as proper hyperlinks rather than using the current \"link\" suffix."
+      ]
+    },
+    "structure": {
+      "assessment": "Analysis completed",
+      "suggestions": []
+    },
+    "completeness": {
+      "assessment": "The content provides a high-level overview of security features, but lacks sufficient detail for implementation.  There are no step-by-step instructions or code examples. The bullet points offer a list of features but not actionable steps for configuration.",
+      "suggestions": [
+        "Add step-by-step instructions. Provide concise, step-by-step instructions for configuring at least one of the security features (e.g., setting up 2FA).",
+        "Include concrete examples.  Offer examples of how to define IP address ranges for the firewall or how to set up Google Sign-In.  Adding a scenario-based example would also help, such as, \"If you want to allow access only via Google Sign-In, follow these steps...\""
+      ]
+    },
+    "style_guidelines": {
+      "assessment": "The voice is somewhat technical and not entirely customer-focused. While clear, the language could be more concise and action-oriented. The document avoids overtly biased language, but it could be improved by speaking directly to the user more often (\"You can...\" is better than \"MoEngage allows...\").",
+      "suggestions": [
+        "Adopt a more active and customer-focused voice. Use \"you\" more frequently to directly address the reader and make the instructions more personal.  Replace passive voice constructions wherever possible.",
+        "Improve clarity and conciseness. Eliminate redundant phrases and unnecessary jargon.",
+        "Use action-oriented language.  Start many sentences with action verbs (e.g., \"Configure,\" \"Enable,\" \"Set up\").   Use strong calls to action."
+      ]
+    }
+  }
+}
